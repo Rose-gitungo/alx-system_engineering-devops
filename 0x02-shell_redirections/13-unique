@@ -1,2 +1,2 @@
 #!/bin/bash
-read lists sort -u lists
+sort | uniq -u
