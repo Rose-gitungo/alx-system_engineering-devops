@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t alx-system_engineering-devops
+ls -t1 | head
